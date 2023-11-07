@@ -1,0 +1,19 @@
+.nemo-image {
+  width: 277px;
+  height: 96px;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 42px;
+}
+
+nav a {
+  font-family: "Raleway", sans-serif;
+  color: #01456a;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
